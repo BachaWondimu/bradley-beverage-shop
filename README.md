@@ -31,4 +31,4 @@ This project demonstrates key OOP concepts such as inheritance, polymorphism, in
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/CMSC203_Assignment6.git
+   git clone https://github.com/BachaWondimu/bradley-beverage-shop
