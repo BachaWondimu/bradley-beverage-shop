@@ -6,16 +6,16 @@ import java.util.Iterator;
  */
 
 /**
- * @author bacha12
+ * @author Bachawondimu
  *
  */
 public class BevShop implements BevShopInterfce {
 	
-	private final int MIN_AGE_FOR_ALCOHOL = 21;  //Minimum age for offering alcohol drink
-	private final int MAX_ORDER_FOR_ALCOHOL= 3;  //Maximum number of alcohol beverages that can be ordered within an order
-	private final int MIN_TIME= 8;				 //earliest time for the order
-	private final int MAX_TIME= 23;				//latest  time for the order
-	private final int MAX_FRUIT = 5;		   //Maximum number of fruits that this shop offers for SMOOTHIE beverage
+	private final int MIN_AGE_FOR_ALCOHOL = 21; 
+	private final int MAX_ORDER_FOR_ALCOHOL= 3;  
+	private final int MIN_TIME= 8;				
+	private final int MAX_TIME= 23;				
+	private final int MAX_FRUIT = 5;		  
 	
 
 	
